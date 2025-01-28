@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakhare_gm" target="blank"><img src="https://img.shields.io/twitter/follow/sakhare_gm?logo=twitter&style=for-the-badge" alt="sakhare_gm" /></a> </p>
 
-- 🔭 I’m currently working on [Yes bank stock prediction](https://colab.research.google.com/drive/1ad1Jj5yt5eo8AvZHYmXA_mZhfyiFSFh_?usp=sharing)
+- 🔭 I’m currently working on GenAI projects
 
 - 🌱 I’m currently learning **Data science**
 
