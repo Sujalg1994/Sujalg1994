@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👯 I’m looking to collaborate on [Covid19 Tweets prediction Analysis](https://colab.research.google.com/drive/12AJc2uaxZYMyAldeZg1lkRetJUOn4-VR?usp=sharing)
+- 👯 I’m looking to collaborate on deepseek models
 
-- 🤝 I’m looking for help with [Netflix Movies and Tv shows](https://colab.research.google.com/drive/16uDwKuw0avTSA6d37bOUoXS4mPW21Ixe?usp=sharing)
+- 🤝 I’m looking for help with AI agents
 
 - 👨‍💻 All of my projects are available at [https://colab.research.google.com/drive/16uDwKuw0avTSA6d37bOUoXS4mPW21Ixe?usp=sharing](https://colab.research.google.com/drive/16uDwKuw0avTSA6d37bOUoXS4mPW21Ixe?usp=sharing)
 
