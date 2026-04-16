@@ -1,41 +1,106 @@
-[![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2021/08/7-Benefits-of-Data-Science.jpg)]
-<h1 align="center">Hi 👋, I'm Sanket Sakhare</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalg1994&label=Profile%20views&color=0e75b6&style=flat" alt="sujalg1994" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Sanket%20C%20Sakhare&fontSize=48&fontColor=00d4ff&fontAlignY=38&desc=Business%20Analytics%20%7C%20Data%20Science%20%7C%20Finance&descAlignY=58&descSize=18&descColor=ffffff)
 
-<p align="left"> <a href="https://twitter.com/sakhare_gm" target="blank"><img src="https://img.shields.io/twitter/follow/sakhare_gm?logo=twitter&style=for-the-badge" alt="sakhare_gm" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on GenAI projects
+---
 
-- 🌱 I’m currently learning **Data science**
+## 👋 About Me
 
-- 👯 I’m looking to collaborate on deepseek models
+I'm a **Business Analytics MSc candidate** at the **University of Birmingham** with **6+ years of experience** across marketing analytics, data science, and business intelligence. I specialise in turning complex, messy datasets into strategic decisions that drive measurable business outcomes.
 
-- 🤝 I’m looking for help with AI agents
+Currently working as an **Analytics Consultant** at [180 Degrees Consulting](https://180dc.org/), delivering data-driven insights for non-profit clients in the UK.
 
-- 👨‍💻 All of my projects are available at [https://colab.research.google.com/drive/16uDwKuw0avTSA6d37bOUoXS4mPW21Ixe?usp=sharing](https://colab.research.google.com/drive/16uDwKuw0avTSA6d37bOUoXS4mPW21Ixe?usp=sharing)
+- 🎓 **MSc Business Analytics** — University of Birmingham (2025–2026)
+- 🏢 **Analytics Consultant Intern** — 180 Degrees Consulting (FSC Project)
+- 📍 Based in **Birmingham, UK** — open to roles across the UK
+- 🎯 Targeting **Business Analyst / Data Analyst / Finance Analyst** roles
+- 💡 Interests: Predictive Modelling · Business Intelligence · FinTech · AI Agents
+- 📫 Reach me at **sanketwork9@gmail.com**
 
-- 📝 I regularly write articles on [sanketsakhare.com (Health and Wellness)](sanketsakhare.com (Health and Wellness))
+---
 
-- 💬 Ask me about **Data visualization , EDA , SQL**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **sanketwork9@gmail.com**
+**Languages & Querying**
 
-- ⚡ Fun fact **I am Finance Guy.**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
-<p align="left">
-<a href="https://twitter.com/sakhare_gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakhare_gm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-sakhare-8a90b0258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanket-sakhare-8a90b0258/" height="30" width="40" /></a>
-</p>
+**Analytics & Machine Learning**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalg1994&show_icons=true&locale=en&layout=compact" alt="sujalg1994" /></p>
+**Visualisation & BI**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalg1994&show_icons=true&locale=en" alt="sujalg1994" /></p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalg1994&" alt="sujalg1994" /></p>
+**Tools & Platforms**
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🗞️ [News Virality Predictor](https://github.com/Sujalg1994/My-Projects-Data-Science-) | Predicted online news article shares using regression, K-means clustering & CART on 40K+ UCI records | Python · Scikit-learn · Pandas |
+| ☕ [BrewFast Coffee Operations Analysis](https://github.com/Sujalg1994/My-Projects-Data-Science-) | Time series decomposition, linear programming & queuing model for operational efficiency | Python · SciPy · Matplotlib |
+| 📊 [UPSC Exam Trend Forecaster](https://github.com/Sujalg1994/My-Projects-Data-Science-) | Forecasted 2025 GS Paper I question distribution using Dirichlet-Multinomial, ARIMA & ensemble methods | Python · Statsmodels · ARIMA |
+| 🌱 [FSC Competitive & Funding Landscape](https://github.com/Sujalg1994/My-Projects-Data-Science-) | Market analysis & funding strategy for a UK environmental education charity (180DC Consulting) | Excel · Python · Power BI |
+| 📈 [Marketing Analytics — BioGrove Agroventure](https://github.com/Sujalg1994/My-Projects-Data-Science-) | Drove **15% MoM ROI uplift** via data-driven campaign analysis and segmentation | Python · SQL · Seaborn |
+
+> ⚠️ *Individual repos for each project are being uploaded — watch this space!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujalg1994&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sujalg1994&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujalg1994&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Career Highlights
+
+- 📈 Delivered **15% MoM ROI uplift** at BioGrove Agroventure through advanced marketing analytics
+- 🤝 Contributed to a **22% NGO funding increase** via data-driven outreach strategy (180DC)
+- 🎓 Distinction-level analytical work across predictive modelling, operations research, and BI
+- 🌍 6+ years of cross-industry analytics experience across India & the UK
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-sakhare-8a90b0258/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sakhare_gm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanketwork9@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer)
+
+</div>
