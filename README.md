@@ -35,7 +35,13 @@ My work combines business analysis discipline with hands-on analytics: requireme
 | [Open Banking Customer Churn Analysis](https://github.com/Sujalg1994/open-banking-customer-churn-analysis) | Customer analytics | Churn scoring, retention queue, value-at-risk analysis, customer segment MI | Python, SQL, dashboard outputs |
 | [UK Mortgage Affordability Analysis](https://github.com/Sujalg1994/uk-mortgage-affordability-analysis) | Mortgage lending | Affordability stress testing, LTV bands, pass/refer/decline outcomes, manual underwriting queue | Python, SQL, policy docs |
 | [Faster Payments Operations MI](https://github.com/Sujalg1994/faster-payments-operations-mi) | Payments operations | SLA monitoring, exception root-cause analysis, failed payment rates, operations MI action plan | Python, SQL, KPI docs |
+---
 
+## Marketing Analytics Portfolio
+
+| Project | Area | What It Demonstrates | Tools |
+| --- | --- | --- | --- |
+| [Customer Personality Marketing Analytics](https://github.com/Sujalg1994/customer-personality-marketing-analytics) | Marketing analytics | Kaggle customer segmentation, campaign response, customer value, product spend, and targeting recommendations | Python, SQL, dashboard outputs |
 ---
 
 ## Core Skills
